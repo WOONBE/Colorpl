@@ -1,13 +1,15 @@
-### Colorpl
-👨‍🏫 프로젝트 소개
+# Colorpl
+### 👨‍🏫 프로젝트 소개
 
 예매와 스케줄 관리를 한번에! 문화생활 통합 플랫폼 앱 Colorpl의 백엔드 코드입니다
 
-⏲️ 개발 기간
+
+### ⏲️ 개발 기간
 
 2024.07.01(월) ~ 2024.08.16(금)
 
-💻 개발환경
+
+### 💻 개발환경
 
 Version : Java 17 IDE : IntelliJ Framework : SpringBoot 3.3.1
 
@@ -16,7 +18,7 @@ ORM : JPA
 Security : JWT, Spring Security, Oauth2
 
 
-⚙️기술 스택
+### ⚙️기술 스택
 Server : AWS EC2
 
 DataBase : Mysql, AWS RDS, JPQL, ERD AqueryTool, Redis
@@ -25,7 +27,7 @@ WS/WAS : Tomcat
 
 Infra : Docker, Jenkins, Nginx
 
-아이디어 회의 : Zoom, Notion
+아이디어 회의 : Zoom, Notion, MatterMost
 
 ![image-13(Powered by MaxAI)](https://github.com/user-attachments/assets/47c326f4-ad64-4ab7-baa9-e7ddad9fdbf0)
 ![시스템 구성도 아키텍처](https://github.com/user-attachments/assets/7def5b92-d1df-4789-8400-53e948ce0367)
