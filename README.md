@@ -1,3 +1,10 @@
+### Colorpl
+👨‍🏫 프로젝트 소개
+예매와 스케줄 관리를 한번에! 문화생활 통합 플랫폼 앱 Colorpl의 백엔드 코드입니다
+
+⏲️ 개발 기간
+2024.07.01(월) ~ 2024.08.16(금)
+
 💻 개발환경
 Version : Java 17 IDE : IntelliJ Framework : SpringBoot 3.3.1
 
