@@ -1,17 +1,21 @@
-## 안드로이드 기술 스택
+💻 개발환경
+Version : Java 17 IDE : IntelliJ Framework : SpringBoot 3.3.1
 
-- Coroutine, Flow
-- Hilt(apply MultiModule)
-- Jetpack - Navigation, Paging, ViewModel, DataBinding, DataStore, Safe Args, WorkManager
-- Bootpay
-- OkHttp3, Retrofit2
-- NaverMap API, Naver Geocoding API, Tmap 대중교통 API
-- Google SignIn
-- Glide
-- OpenAI - VisionAPI
-- TensorFlowLite
-- Timber
-----
+ORM : JPA
+
+Security : JWT, Spring Security, Oauth2
+
+
+⚙️기술 스택
+Server : AWS EC2
+
+DataBase : Mysql, AWS RDS, JPQL, ERD AqueryTool, Redis
+
+WS/WAS : Tomcat
+
+Infra : Docker, Jenkins, Nginx
+
+아이디어 회의 : Zoom, Notion
 
 ![image-13(Powered by MaxAI)](https://github.com/user-attachments/assets/47c326f4-ad64-4ab7-baa9-e7ddad9fdbf0)
 ![시스템 구성도 아키텍처](https://github.com/user-attachments/assets/7def5b92-d1df-4789-8400-53e948ce0367)
