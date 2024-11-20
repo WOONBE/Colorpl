@@ -31,7 +31,6 @@ Infra : Docker, Jenkins, Nginx
 아이디어 회의 : Zoom, Notion, MatterMost
 
 ![image-13(Powered by MaxAI)](https://github.com/user-attachments/assets/47c326f4-ad64-4ab7-baa9-e7ddad9fdbf0)
-![시스템 구성도 아키텍처](https://github.com/user-attachments/assets/7def5b92-d1df-4789-8400-53e948ce0367)
 ![image-1(Powered by MaxAI)](https://github.com/user-attachments/assets/8904503a-3873-4211-b4d8-72c824ea8a9a)
 ![image-2(Powered by MaxAI)](https://github.com/user-attachments/assets/a2e96ff2-7557-465b-8142-09d0022fc58d)
 ![image-3(Powered by MaxAI)](https://github.com/user-attachments/assets/3f19d1bd-c28e-4cb5-836a-4d5ad0617efc)
