@@ -1,5 +1,7 @@
 # Colorpl
 
+![image](https://github.com/user-attachments/assets/47af432f-6ac8-45b4-accc-14780b7e18bb)
+
 ### 👨‍🏫 프로젝트 소개
 
 예매와 스케줄 관리를 한번에! 문화생활 통합 플랫폼 앱 Colorpl의 백엔드 코드입니다
@@ -30,7 +32,7 @@ Infra : Docker, Jenkins, Nginx
 
 아이디어 회의 : Zoom, Notion, MatterMost
 
-![image-13(Powered by MaxAI)](https://github.com/user-attachments/assets/47c326f4-ad64-4ab7-baa9-e7ddad9fdbf0)
+
 ![image-1(Powered by MaxAI)](https://github.com/user-attachments/assets/8904503a-3873-4211-b4d8-72c824ea8a9a)
 ![image-2(Powered by MaxAI)](https://github.com/user-attachments/assets/a2e96ff2-7557-465b-8142-09d0022fc58d)
 ![image-3(Powered by MaxAI)](https://github.com/user-attachments/assets/3f19d1bd-c28e-4cb5-836a-4d5ad0617efc)
