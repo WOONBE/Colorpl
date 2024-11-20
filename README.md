@@ -32,6 +32,9 @@ Infra : Docker, Jenkins, Nginx
 
 아이디어 회의 : Zoom, Notion, MatterMost
 
+### 프로젝트 진행 노션 페이지
+https://darkened-raver-65b.notion.site/14d56e70ee094229963010d630ee2094
+
 
 ![image-1(Powered by MaxAI)](https://github.com/user-attachments/assets/8904503a-3873-4211-b4d8-72c824ea8a9a)
 ![image-2(Powered by MaxAI)](https://github.com/user-attachments/assets/a2e96ff2-7557-465b-8142-09d0022fc58d)
